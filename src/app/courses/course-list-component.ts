@@ -13,7 +13,7 @@ export class CourseListComponet {
       {
         id: 1,
         name: 'Angular: Forms',
-        imgUrl: '',
+        imgUrl: '/src/assets/imagens/forms.png',
         price: 99.99,
         code: 'XPS-8756',
         duration: 120,
@@ -24,7 +24,7 @@ export class CourseListComponet {
       {
         id: 2,
         name: 'Angular: HTTP',
-        imgUrl: '',
+        imgUrl: '/src/assets/imagens/http.png',
         price: 45.99,
         code: 'HTP-7685',
         duration: 80,
